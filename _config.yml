@@ -6,6 +6,7 @@ description: "the wearable LEDs"
 baseurl: ""
 url: ""
 facebook_username: wearleds
+twitter_username: wearleds
 # Build settings
 markdown: kramdown
 highlighter: pygments
