@@ -5,6 +5,7 @@ email: info@wear-leds.com
 description: "the wearable LEDs"
 baseurl: ""
 url: ""
+facebook_username: wearleds
 # Build settings
 markdown: kramdown
 highlighter: pygments
