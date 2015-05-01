@@ -7,6 +7,7 @@ baseurl: ""
 url: ""
 facebook_username: wearleds
 twitter_username: wearleds
+instagram_username: wearleds
 # Build settings
 markdown: kramdown
 highlighter: pygments
