@@ -10,14 +10,17 @@ p {
 p a {
   text-decoration: underline;
 }
-h1,
+h1 {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
+}
 h2,
 h3,
 h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 700;
 }
 a {
   color: #404040;
@@ -40,6 +43,13 @@ hr.small {
   border-width: 4px;
   border-color: white;
 }
+hr.smallblack {
+    max-width: 75%;
+    margin: 15px auto;
+    border-width: 2px;
+    border-color: gray;
+}
+
 .navbar-custom {
   background: white;
   position: absolute;

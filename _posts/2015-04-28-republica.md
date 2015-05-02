@@ -1,6 +1,7 @@
 ---
 layout: post
 title: re:publica
+subtitle: talk and workshop in Berlin
 date: 2015-04-29 13:37
 author: René
 header-img: "img/rp15-bg.jpg"
